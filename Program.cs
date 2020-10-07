@@ -16,7 +16,7 @@ namespace Git2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MineForm());
+            Application.Run(new Form1());
         }
     }
 }

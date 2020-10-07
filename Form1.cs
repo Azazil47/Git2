@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Git2
 {
-    public partial class MineForm : Form
+    public partial class Form1 : Form
     {
-        public MineForm()
+        public Form1()
         {
             InitializeComponent();
         }

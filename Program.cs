@@ -8,7 +8,6 @@ namespace Git2
     static class Program
     {
         public static String line;
-        public static String line2;
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>

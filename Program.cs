@@ -9,6 +9,7 @@ namespace Git2
     {
         public static String line;
         public static String line3;
+        public static String line4;
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
